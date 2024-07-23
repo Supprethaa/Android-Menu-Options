@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OptionsMenu</string>
+    <string name="choice_1">Choice 1</string>
+    <string name="item_1">item 1</string>
+    <string name="item_2">item 2</string>
+    <string name="item_3">item 3</string>
+    <string name="sub_item_1">Sub-item 1</string>
+</resources>
